@@ -66,7 +66,7 @@ popd
 
 cls
 color 07
-title  Microsoft_Activation_Scripts %uiver% by Hicham94460
+title  Microsoft_Activator %uiver% by Hicham94460
 
 set _args=
 set _elev=
@@ -190,7 +190,7 @@ setlocal EnableDelayedExpansion
 
 cls
 color 07
-title  Microsoft_Activation_Scripts 1.8 %uiver% by Hicham94460
+title  Microsoft_Activator 1.8 %uiver% by Hicham94460
 mode 76, 30
 set "mastemp=%SystemRoot%\Temp\__MAS"
 if exist "%mastemp%\.*" rmdir /s /q "%mastemp%\" %nul%
@@ -221,7 +221,7 @@ choice /C:12345670 /N
 set _erl=%errorlevel%
 
 if %_erl%==8 exit /b
-if %_erl%==7 start https://massgrave.dev & goto :MainMenu
+if %_erl%==7 start https://github.com/Hicham94460 & goto :MainMenu
 if %_erl%==6 goto:Extras
 if %_erl%==5 setlocal & call :troubleshoot      & cls & endlocal & goto :MainMenu
 if %_erl%==4 setlocal & call :_Check_Status_wmi & cls & endlocal & goto :MainMenu
