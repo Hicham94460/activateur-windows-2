@@ -19,4 +19,7 @@ Release date: 16-Mar-2023
 ```
 
 
-If you want a activator for Windows vista/7 or others of version Windows Server Download the file from here : https://github.com/Hicham94460/activateur-windows-server/archive/refs/heads/main.zip
+This version is functionnal for all version of windows. If you want activated this with windows server, use KMS 2038 years methods.
+
+
+If you want a other activator permanently only for Windows vista/7 or others of version Windows Server Download the file from here : https://github.com/Hicham94460/activateur-windows-server/archive/refs/heads/main.zip
