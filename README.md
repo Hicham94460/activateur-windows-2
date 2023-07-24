@@ -17,3 +17,6 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 Latest Version: 1.8
 Release date: 16-Mar-2023
 ```
+
+
+If you want a activator for Windows vista/7 or others of version Windows Server Download the file from here : https://github.com/Hicham94460/activateur-windows-server/archive/refs/heads/main.zip
